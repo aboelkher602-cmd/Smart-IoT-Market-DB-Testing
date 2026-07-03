@@ -14,7 +14,7 @@ The database (`SmartIoTMarket`) consists of 5 interconnected tables designed wit
 2. **`Sensors`:** Tracks IoT temperature sensors deployed across different market locations (e.g., freezers, fridges)[cite: 1].
 3. **`Temp_Logs`:** Records real-time temperature readings linked to specific sensors[cite: 1].
 4. **`Alert_Tasks`:** Logs automated emergency tasks and system warnings[cite: 1].
-
+![EER Diagram](SmartIoTMarket_EER_Diagram.png)
 ## 🎯 Testing Scope & Scenarios
 As part of the Quality Assurance process, the following database components were rigorously tested:
 
